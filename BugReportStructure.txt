@@ -1,0 +1,33 @@
+Project:
+-
+
+Summery (Bug title):
+--
+
+Discription:
+--
+
+Steps to reproduce:
+--
+
+Expected result: 
+--
+
+Attual result
+--
+
+Artifacts (log file, screenshots):
+--
+
+Repro condition (platform, version, device, brouser, bull):
+--
+
+Repro rate:
+--
+
+Assignee:
+--
+
+Reporter:
+--
+
